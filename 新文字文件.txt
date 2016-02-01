@@ -1,0 +1,64 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+function name() {
+    .....
+}
+</head>
+<body>
+
+<script type="text/javascript">
+
+function name() {
+    .....
+}
+</script>
+
+<form>
+ <fieldset>
+  <legend>~~~~:</legend>
+    <input type="button" />
+    <input type="checkbox" />
+ 
+    <input type="file" />
+    <input type="hidden" />
+    <input type="image" />
+ 
+    <input type="password" />
+    <input type="radio" />
+    <input type="reset" />
+ 
+    <input type="submit" />
+    <input type="text" />
+    <select><option>Option<option/></select> //下拉式選單
+ 
+    <textarea></textarea>
+ </fieldset>
+</form>
+
+<div style="color:#0000FF"> //for段落
+  <h3>~~~~~~</h3>
+  <p>~~~~~~~</p>
+ <span style= "color:red"> ~~~~~~~~~</span> //for行 
+</div>
+
+</body>
+</html>
+
+<input type="button" id="btn01" value="OK"> = <button id="btn01" onclick="myFunction()>OK</button> 
+alert ("訊息.... " + ); //訊息視窗
+document.getElementById("idname").innerHTML = value; //塞入一值至指定id
+document.write(value); //顯示資訊
+var name = {
+    string   : "John",
+    int      : 50,
+    Boolean  : true,
+    Function : function() {
+       .....;
+    }
+}; //var 陣列可含多種子類別
+join() //列出陣列的所有值
+reverse() //列出陣列的所有值,並顛倒順序
+sort() //列出陣列的所有值,並依字母先後排序
