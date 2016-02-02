@@ -1,11 +1,19 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-
+<style>
+.name{
+~~~~~
+}
+.name{
+~~~~~
+}
+</style>
+<script>
 function name() {
     .....
 }
+</script>
 </head>
 <body>
 
